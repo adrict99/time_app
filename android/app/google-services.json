@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922127727542",
+    "firebase_url": "https://time-app-b5039.firebaseio.com",
+    "project_id": "time-app-b5039",
+    "storage_bucket": "time-app-b5039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922127727542:android:a8167f7de25640b9541f17",
+        "android_client_info": {
+          "package_name": "com.adrict99.time_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922127727542-g2me63hsd503snu88vkk7elv3dtqrdsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXSnD235QhT9UpmUaZrVaPjFQEFJ_Cds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922127727542-g2me63hsd503snu88vkk7elv3dtqrdsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
